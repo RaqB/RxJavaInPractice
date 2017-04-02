@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+    <Appenders>
+
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout pattern="[%p] | %d | %c{1}:%L - %M: %m%n" />
+        </Console>
+
+    </Appenders>
+
+    <Loggers>
+
+        <Logger name="CreatingObservable" level="info" additivity="true"/>
+
+        <Root level="debug">
+            <appender-ref ref="console" />
+        </Root>
+
+    </Loggers>
+
+</Configuration>
