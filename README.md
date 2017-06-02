@@ -17,7 +17,7 @@ Es una implementación de ReactiveX, una API para programación asincrona con fl
 1. [A quick introduccion](https://praveer09.github.io/technology/2016/02/13/rxjava-part-1-a-quick-introduction/): Se exponen tres 
 artículos donde se presenta **los conceptos fundamentales para entender la programación reactiva**: La fuente de datos,
 el consumidor de datos y la conexión entre el consumidor y la fuente. Estos conceptos se ven reflejados por la API 
-respectivamente en Observable, Observer y el método subscriber. Asimismo, **los diferentes escenarios para la creación de Observables**.
+respectivamente en Observable, Observer y el método subscribe. Asimismo, **los diferentes escenarios para la creación de Observables**.
 Y finalmente, **el comportamiento que posee la API para tratar con multihilos.**
 
 2. [How to Think, in RxJava, Before Reacting](https://vimeo.com/170796165): Una conferencia dictada por Praveer Gupta donde explica
