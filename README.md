@@ -24,3 +24,5 @@ Y finalmente, **el comportamiento que posee la API para tratar con multihilos.**
 apartados que van desde una introducción a la programación reactiva hasta utilidades para pruebas unitarias. Brindando suficiente
  información acerca de los mecanismos de RxJava para poder seguir experimentado con esta libreria.
 
+3. [RxJava- Understanding observeOn() and subscribeOn()](http://tomstechnicalblog.blogspot.pe/2016/02/rxjava-understanding-observeon-and.html): Thomas Nield parte de la teoria básica de concurrencia y multihilos para enseñar conceptos claves en el entendimiento de observeOn() y subcribeOn(), ambos operadores muy especiales en ReactiveX.
+
